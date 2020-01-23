@@ -1,0 +1,13 @@
+.userEach{
+    width:48%;
+    background: #ddd;
+    border:1px solid #000;
+    float: left;
+    margin: 1%;
+}
+
+#del{
+    padding: 5px 10px 5px 10px;
+    border-radius: 2px;
+    font-size: 40px;
+}
